@@ -1,5 +1,5 @@
 # Pewlett-Hackard-Analysis
-## Introduction - SQL Databases Created
+## Introduction - SQL Tables Created
 ![EmployeeDB.png](EmployeeDB.png)
 ![table_creations.jpg](table_creations.jpg)
 
