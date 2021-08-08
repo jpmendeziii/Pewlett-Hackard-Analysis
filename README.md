@@ -1,5 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Introduction - SQL Databases Created
+![EmployeeDB.png](EmployeeDB.png)
 ## Problem Statement - Silver Generation Conundrum - Deliverable 1
 ![retirement_titles_script.jpg](retirement_titles_script.jpg)
 ![output_retirement_titles.jpg](output_retirement_titles.jpg)
