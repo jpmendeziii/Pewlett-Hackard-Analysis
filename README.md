@@ -19,6 +19,18 @@
 ![output_retiring_titles.jpg](output_retiring_titles.jpg)
 ### No matter the size of PH, that is a staggering number of senior engineers and technical staff slated to retire.  The knowledge lost through this silver generation would be crippling unless something is done to stem this tide.
 ## Mentorship Program Solution - Deliverable 2
+### In the Employee_Database_challenge.sql file, a query was written to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program.  This was achieved by:
+* 1. Retrieve the emp_no, first_name, last_name, and birth_date columns from the Employees table.
+* 2. Retrieve the from_date and to_date columns from the Department Employee table.
+* 3. Retrieve the title column from the Titles table.
+* 4. Use a DISTINCT ON statement to retrieve the first occurrence of the employee number for each set of rows defined by the ON () clause.
+* 5. Create a new table using the INTO clause.
+* 6. Join the Employees and the Department Employee tables on the primary key.
+* 7. Join the Employees and the Titles tables on the primary key.
+* 8. Filter the data on the to_date column to all the current employees, then filter the data on the birth_date columns to get all the employees whose birth dates are between January 1, 1965, and December 31, 1965.
+* 9. Order the table by the employee number.
+* 10. Export the Mentorship Eligibility table as mentorship_eligibilty.csv
+### The query and the output is shown below.
 ![Deliverable2_script.jpg](Deliverable2_script.jpg)
 ![output_mentorship_eligibility.jpg](output_mentorship_eligibility.jpg)
 ## Conclusions - Results and Summary
