@@ -47,6 +47,9 @@ This will be achieved by:
 ### Summary
 ### A possible solution to the mentorship program shortfall is to expand the search criteria by including employees born in 1964 - this simple change alone allows for more than 18000 more possible mentors.  Please see below.
 ![mentorship_adjustment.jpg](mentorship_adjustment.jpg)
-### Expanding the age criteria 1963 doubles the amount of potential mentors - please see below.
+### Expanding the age criteria to the year 1963 almost doubles the number of potential mentors to 38401 - please see below.
 ![mentorship_adjustment_1963.jpg](mentorship_adjustment_1963.jpg)
-### Another possible solution is to offer more soft incentives to the silver generation - more paid time off / vacation time, better health insurance coverage.
+### Another possible solution is to offer more soft incentives to the silver generation:
+* More paid time off / vacation time
+* Better health insurance coverage
+### In summation, the initial mentorship program criteria were too restrictive by utilizing 1965 only, by relaxing this constraint PH will be able to mentor some new blood and incentivize the current silver generation.
