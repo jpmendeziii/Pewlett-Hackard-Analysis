@@ -14,6 +14,7 @@
 ### There are duplicate entries for some employees due to switching roles over the years - Therefore the DISTINCT ON statement was utilized to initiate the unique titles table.  The unique table was also sorted by to_date in order to find the most recent job title by employee number.
 ![unique_titles_script.jpg](unique_titles_script.jpg)
 ![output_unique_titles.jpg](output_unique_titles.jpg)
+### Finally, the COUNT statement was used to collect the number of employees by their most recent job title who are about to retire as shown below.  
 ![retiring_titles_script.jpg](retiring_titles_script.jpg)
 ![output_retiring_titles.jpg](output_retiring_titles.jpg)
 ## Mentorship Program Solution - Deliverable 2
