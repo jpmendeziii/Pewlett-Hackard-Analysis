@@ -45,6 +45,6 @@ This will be achieved by:
 * 4. There are very few Managers slated to retire - This seems a little peculiar.  More attention needs to be paid to the PH organization chart - This could be part of the incentive plan to attract the aging talent to stick around longer.
 
 ### Summary
-### One possible solution to the mentorship program shortfall is to expand the search criteria by including employees born in 1964 - this simple change alone allows for more than 18000 more possible mentors.  Please see below.
+### A possible solution to the mentorship program shortfall is to expand the search criteria by including employees born in 1964 - this simple change alone allows for more than 18000 more possible mentors.  Please see below.
 ![mentorship_adjustment.jpg](mentorship_adjustment.jpg)
-
+### Expanding the age criteria 1963 doubles the amount of potential mentors - please see below.
