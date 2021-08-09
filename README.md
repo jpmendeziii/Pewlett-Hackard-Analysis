@@ -40,9 +40,11 @@ This will be achieved by:
 ### The output above shows the number of eligible current employees available for the mentorship program.  1549 employees are a good start, however there are over 90,000 employees slated to retire.  
 ### Results:
 * 1. That means these 1549 employees would have to mentor an average of 58+ employees.  This appears to be a massive shortfall.
-* 2. 
+* 2. There needed to be some newer blood in PH a while ago - it is imperative to retain the talent on hand.  PH needs to find more incentives to retain their aging talent, so they have time to replenish with new employees.
+* 3. The most attention has to be paid to Senior Engineers and Engineers - These 2 groups alone account for almost 50% of the silver tsunami.
+* 4. There are very few Managers slated to retire - This seems a little peculiar.  More attention needs to be paid to the PH organization chart - This could be part of the incentive plan to attract the aging talent to stick around longer.
 
 ### Summary
-One possible solution to the mentorship program shortfall is to expand the search criteria by including employees born in 1964 - this simple change alone allows for more than 18000 more possible mentors.  This change alone would adjust the new employee to mentor ratio to 3:1 - Please see below
+### One possible solution to the mentorship program shortfall is to expand the search criteria by including employees born in 1964 - this simple change alone allows for more than 18000 more possible mentors.  Please see below.
 ![mentorship_adjustment.jpg](mentorship_adjustment.jpg)
 
