@@ -5,7 +5,7 @@
 ![table_creations.jpg](table_creations.jpg)
 
 ## Problem Statement - Silver Generation Conundrum - Deliverable 1
-### After creating numerous joined tables in SQL, there are more deliverables to be done.  
+### After creating numerous joined tables in SQL, there appears to be a significant aging of the workforce and PH needs to be prepared.  The purpose of these upcoming deliverables is to quantify and provide possible solutions to potential knowledge chasm.  
 * 1. The number of retiring employees by title.
 * 2. The employees eligible for the mentorship program.
 ### In order to retrieve the number of employees retiring by title, we first must export the number of retirement titles with the following script and output shown below.
