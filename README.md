@@ -11,6 +11,7 @@
 ### In order to retrieve the number of employees retiring by title, we first must export the number of retirement titles with the following script and output shown below.
 ![retirement_titles_script.jpg](retirement_titles_script.jpg)
 ![output_retirement_titles.jpg](output_retirement_titles.jpg)
+### There are duplicate entries for some employees due to switching roles over the years - Therefore the DISTINCT ON statement was utilized to initiate the unique titles table.  The unique table was also sorted by to_date in order to find the most recent job title by employee number.
 ![unique_titles_script.jpg](unique_titles_script.jpg)
 ![output_unique_titles.jpg](output_unique_titles.jpg)
 ![retiring_titles_script.jpg](retiring_titles_script.jpg)
@@ -18,5 +19,4 @@
 ## Mentorship Program Solution - Deliverable 2
 ![Deliverable2_script.jpg](Deliverable2_script.jpg)
 ![output_mentorship_eligibility.jpg](output_mentorship_eligibility.jpg)
-## Conclusions
-Queries/Data/employees.csv
+## Conclusions - Results and Summary
