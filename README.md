@@ -41,3 +41,8 @@ This will be achieved by:
 ### Results:
 * 1. That means these 1549 employees would have to mentor an average of 58+ employees.  This appears to be a massive shortfall.
 * 2. 
+
+### Summary
+One possible solution to the mentorship program shortfall is to expand the search criteria by including employees born in 1964 - this simple change alone allows for more than 18000 more possible mentors.  This change alone would adjust the new employee to mentor ratio to 3:1 - Please see below
+![mentorship_adjustment.jpg](mentorship_adjustment.jpg)
+
