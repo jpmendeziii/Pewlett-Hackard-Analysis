@@ -18,7 +18,7 @@ This will be achieved by:
 ### Finally, the COUNT statement was used to collect the number of employees by their most recent job title who are about to retire as shown below.  
 ![retiring_titles_script.jpg](retiring_titles_script.jpg)
 ![output_retiring_titles.jpg](output_retiring_titles.jpg)
-### No matter the size of PH, that is a staggering number of senior engineers and technical staff slated to retire.  The knowledge lost through this silver generation would be crippling unless something is done to stem this tide.
+### No matter the size of PH, that is a staggering number of senior engineers and technical staff slated to retire (90,398).  The knowledge lost through this silver generation would be crippling unless something is done to stem this tide.
 ## Mentorship Program Solution - Deliverable 2
 ### In theory, a mentorship program is a logical step in stemming the wave of lost knowledge and experience.  In the Employee_Database_challenge.sql file, a query was written to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program.  
 This was achieved by:
