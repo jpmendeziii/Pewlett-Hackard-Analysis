@@ -17,6 +17,7 @@
 ### Finally, the COUNT statement was used to collect the number of employees by their most recent job title who are about to retire as shown below.  
 ![retiring_titles_script.jpg](retiring_titles_script.jpg)
 ![output_retiring_titles.jpg](output_retiring_titles.jpg)
+### No matter the size of PH, that is a staggering number of senior engineers and technical staff slated to retire.  The knowledge lost through this silver generation would be crippling unless something is done to stem this tide.
 ## Mentorship Program Solution - Deliverable 2
 ![Deliverable2_script.jpg](Deliverable2_script.jpg)
 ![output_mentorship_eligibility.jpg](output_mentorship_eligibility.jpg)
