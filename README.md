@@ -39,4 +39,5 @@ This will be achieved by:
 ![output_mentorship_eligibility_count.jpg](output_mentorship_eligibility_count.jpg)
 ### The output above shows the number of eligible current employees available for the mentorship program.  1549 employees are a good start, however there are over 90,000 employees slated to retire.  
 ### Results:
-* 1. That means these 1549 employees would have to mentor an average of 58+ employees.  
+* 1. That means these 1549 employees would have to mentor an average of 58+ employees.  This appears to be a massive shortfall.
+* 2. 
